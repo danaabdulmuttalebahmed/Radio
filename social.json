@@ -1,0 +1,33 @@
+{
+  "status": "ok",
+  "social": [
+    {
+      "id": 4,
+      "name": "Website",
+      "icon": "https://cdn-icons-png.flaticon.com/512/3178/3178162.png",
+      "url": "https://www.solodroid.net",
+      "status": 1
+    },
+    {
+      "id": 3,
+      "name": "Facebook",
+      "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
+      "url": "https://www.facebook.com/solodroid.net",
+      "status": 1
+    },
+    {
+      "id": 2,
+      "name": "Twitter",
+      "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
+      "url": "https://twitter.com/solodroiddev",
+      "status": 1
+    },
+    {
+      "id": 1,
+      "name": "Instagram",
+      "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
+      "url": "https://www.instagram.com/solodroid.developer",
+      "status": 1
+    }
+  ]
+}
