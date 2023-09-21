@@ -2,18 +2,28 @@
   "status": "ok",
   "social": [
     {
+      "id": 4,
+      "name": "WebSite",
+      "icon": "1686339100_website-logo.png",
+      "url": "https://play.google.com/store/games?device=windows"
+    },
+    {
+      "id": 3,
+      "name": "Instagram",
+      "icon": "1686338971_instagram-logo.png",
+      "url": "https://www.instagram.com/mawanisbastyan/"
+    },
+    {
       "id": 2,
-      "name": "Website",
-      "icon": "https://cdn-icons-png.flaticon.com/512/3178/3178162.png",
-      "url": "https://www.solodroid.net",
-      "status": 1
+      "name": "Telegram",
+      "icon": "1642776986_telegram.png",
+      "url": "https://telegram.me/sbastyanmawani"
     },
     {
       "id": 1,
-      "name": "Instagram",
-      "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
-      "url": "https://www.instagram.com/solodroid.developer",
-      "status": 1
+      "name": "Email",
+      "icon": "1642793686_email.png",
+      "url": "mailto:mawanisbastyan@gmail.com"
     }
   ]
 }
