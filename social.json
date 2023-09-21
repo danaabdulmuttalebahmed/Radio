@@ -13,14 +13,14 @@
       "name": "Facebook",
       "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
       "url": "https://www.facebook.com/solodroid.net",
-      "status": 1
+      "status": 0
     },
     {
       "id": 2,
       "name": "Twitter",
       "icon": "https://static.vecteezy.com/system/resources/thumbnails/016/716/447/small/facebook-icon-free-png.png",
       "url": "https://twitter.com/solodroiddev",
-      "status": 1
+      "status": 0
     },
     {
       "id": 1,
