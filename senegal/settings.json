@@ -15,7 +15,7 @@
     "fan_interstitial_unit_id": "IMG_16_9_APP_INSTALL#test",
     "fan_native_unit_id": "IMG_16_9_APP_INSTALL#test",
     "startapp_app_id": 0,
-    "unity_game_id": 00000000,
+    "unity_game_id": null,
     "unity_banner_placement_id": "banner",
     "unity_interstitial_placement_id": "video",
     "applovin_banner_ad_unit_id": 0,
