@@ -1,0 +1,29 @@
+{
+  "status": "ok",
+  "social": [
+    {
+      "id": 4,
+      "name": "WebSite",
+      "icon": "1686339100_website-logo.png",
+      "url": "https://play.google.com/store/games?device=windows"
+    },
+    {
+      "id": 3,
+      "name": "Instagram",
+      "icon": "1686338971_instagram-logo.png",
+      "url": "https://www.instagram.com/mawanisbastyan/"
+    },
+    {
+      "id": 2,
+      "name": "Telegram",
+      "icon": "1642776986_telegram.png",
+      "url": "https://telegram.me/sbastyanmawani"
+    },
+    {
+      "id": 1,
+      "name": "Email",
+      "icon": "1642793686_email.png",
+      "url": "mailto:mawanisbastyan@gmail.com"
+    }
+  ]
+}
