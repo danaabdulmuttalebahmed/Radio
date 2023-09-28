@@ -1,0 +1,17 @@
+{
+  "status": "ok",
+  "social": [
+    {
+      "id": 2,
+      "name": "More Apps",
+      "icon": "1686339100_website-logo.png",
+      "url": "https://play.google.com/store/apps/developer?id=FmRadio.netRadio"
+    },
+    {
+      "id": 1,
+      "name": "Email",
+      "icon": "1642793686_email.png",
+      "url": "mailto:mawanisbastyan@gmail.com"
+    }
+  ]
+}
